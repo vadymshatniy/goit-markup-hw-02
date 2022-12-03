@@ -67,15 +67,12 @@ body {
     list-style-type: none;
 }
 .contact-nav .link {
-    color: var(--primary-color);
+    color: var(--primary-text-color);
     font-size: 16px;
     line-height: 1.5;
 }
 .contact-nav .link:focus,
 .contact-nav .link:hover {
-    color: var(--primary-text-color);
-}
-.contact-nav .link:active {
     color: var(--accent-color);
 }
 
